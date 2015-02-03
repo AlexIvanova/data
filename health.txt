@@ -30,3 +30,6 @@ none     dinner    29-jan 1      1     0   0      1     0    0         0     0
 none     breakfast 30-jan 1      0     0   0      0     0    0         0     0
 none     lunch     30-jan 0      0     0   0      0     0    0         0     0
 none     dinner    30-jan 0      1     0   0      1     0    1         1     1
+none     breakfast 31-jan 0      0     0   1      0     0    0         0     1
+none     lunch     31-jan 1      0     0   0      1     0    1         1     0
+none     dinner    31-jan 0      0     0   0      0     0    0         0     0
