@@ -1,0 +1,3 @@
+hit_perc crit_perc hit crit
+1.00 0.60 1 1
+
